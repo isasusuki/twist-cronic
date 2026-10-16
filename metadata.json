@@ -1,0 +1,6 @@
+{
+  "name": "Vigília Sombria: O Último Turno",
+  "description": "Jogo de terror psicológico interativo com vigilância por câmeras, atmosfera retrô analógica e um terrível plot twist.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
